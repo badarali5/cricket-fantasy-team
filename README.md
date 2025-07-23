@@ -24,7 +24,8 @@ Built with **Spring Boot (Java)** for the backend and **React** for the frontend
 - TailwindCSS / Custom CSS
 
 ### **Backend**
-- Spring Boot (Java 21)
+- Java
+- Spring Boot 
 - Spring Data JPA & Hibernate
 - PostgreSQL
 - Maven
